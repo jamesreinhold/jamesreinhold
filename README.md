@@ -3,20 +3,20 @@
 <a href="https://twitter.com/mrjamesreinhold">
   <img align="left" alt="James Reinhold | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> 
 </a>
-<a href="https://www.linkedin.com/in/James-siddiqui-6055b5178">
+<a href="https://www.linkedin.com/in/jamesreinhold/">
   <img align="left" alt="James's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/mrjamesreinhold/">
   <img align="left" alt="James's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/dieudonner/">
+<a href="https://www.facebook.com/mrjamesreinhold/">
   <img align="left" alt="James's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm James Reinhold, An Graduate Software Engineering and Studying Cyber Security [@SMC](https://www.smcuniversity.edu/) with Software Development skills 🚀 from Ghana and living in Poland, currently, I'm Developer Student Club Lead 🙍🏽‍♂️ [@googledevelopers](https://developers.google.com/community/dsc), Freelance Software Developer 👨🏽‍💻 [@Fiverr](https://www.fiverr.com/mrjamesreinhold), Open Source Contributor 👨🏽‍💼[@MERL-UIT](https://github.com/merledu) with that I'm a Founder of [@pytroops](https://www.youtube.com/pytroops) community and a Student Memeber 🙍🏽‍♂️ [@IEEE](https://www.ieee.org/). Beside's programming, I enjoy music, traveling, TvShows(Silicon Valley is my favorite show) and programming again.
+Hi, I'm James Reinhold, An Graduate Software Engineering and Studying Cyber Security [@SMC](https://www.smcuniversity.edu/) with Software Development skills 🚀 from Ghana and living in Poland, currently, I'm Developer Student Club Lead 🙍🏽‍♂️ [@googledevelopers](https://developers.google.com/community/dsc), Freelance Software Developer 👨🏽‍💻 [@Fiverr](https://www.fiverr.com/mrjamesreinhold), Open Source Contributor and a Student Memeber 🙍🏽‍♂️ [@IEEE](https://www.ieee.org/). Beside's programming, I enjoy music, traveling, TvShows(Silicon Valley is my favorite show) and programming again.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
